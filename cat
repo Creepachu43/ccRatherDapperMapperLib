@@ -5,9 +5,6 @@
 	["minecraft:grass"] = {
 		{ {snowy=false}, {" ", colours.lime, colours.lime} },
 		{ {snowy=true}, {" ", colours.white, colours.white} }
-	}["byg:overgrown_stone"] = {
-		{ {snowy=false}, {" ", colours.lime, colours.lime} },
-		{ {snowy=true}, {" ", colours.white, colours.white} }
 	},
 	["minecraft:dirt"] = {
 		{ {snowy=true,variant="podzol"}, {" ", colours.white, colours.white} },
