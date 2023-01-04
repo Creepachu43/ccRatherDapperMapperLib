@@ -2,6 +2,9 @@
 	["minecraft:glass"] = {
 		{ {}, {"#", colours.lightBlue, colours.white} }
 	},
+	["byg:overgrown_stone"] = {
+		{ {}, {"#", colours.brown, colours.lightGrey} }
+	},
 	["minecraft:grass"] = {
 		{ {snowy=false}, {" ", colours.lime, colours.lime} },
 		{ {snowy=true}, {" ", colours.white, colours.white} }
