@@ -2,7 +2,7 @@
 	["minecraft:glass"] = {
 		{ {}, {"#", colours.lightBlue, colours.white} }
 	},
-	["minecraft:grass_block"] = {
+	["minecraft:grass"] = {
 		{ {snowy=false}, {" ", colours.lime, colours.lime} },
 		{ {snowy=true}, {" ", colours.white, colours.white} }
 	}["byg:overgrown_stone"] = {
